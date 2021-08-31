@@ -8,38 +8,38 @@ zh_CN:
   js:
     category:
       sort_options:
-        votes: "投票"
+        votes: "赞"
     voting:
-      title: "投票"
-      reached_limit: "你无法再投票了，需要取消投过的票！"
-      list_votes: "列出你的投票"
+      title: "赞"
+      reached_limit: "赞的次数太多啦～"
+      list_votes: "列出你赞过的帖子"
       votes_nav_help: "得票最多的话题"
-      voted: "你已经为这个话题投过票了"
-      allow_topic_voting: "允许用户在此分类中为话题投票"
-      vote_title: "投票"
-      vote_title_plural: "投票"
-      voted_title: "已投票"
+      voted: "你已经赞过了"
+      allow_topic_voting: "允许用户在此分类中为话题点赞"
+      vote_title: "点赞"
+      vote_title_plural: "点赞"
+      voted_title: "已点赞"
       voting_closed_title: "已关闭"
       voting_limit: "次数限制"
       votes_left:
-        other: "你还有 %{count} 次投票的机会，查看<a href='%{path}'>你的投票</a>。"
+        other: "你还有 %{count} 次点赞的机会，查看<a href='%{path}'>你的点赞</a>。"
       votes_left_button_title:
-        other: "你还有 %{count} 次投票的机会。"
+        other: "你还有 %{count} 次点赞的机会。"
       votes:
         other: "%{count} 次"
       anonymous_button:
-        other: "投票"
-      remove_vote: "取消投票"
+        other: "点赞"
+      remove_vote: "取消赞"
     filters:
       votes:
-        title: "投票"
-        help: "得到最多票的主题"
+        title: "点赞"
+        help: "得到最多赞的主题"
       my_votes:
-        title: "我的投票"
-        help: "你投过票的话题"
+        title: "我的赞"
+        help: "你点赞的话题"
     search:
-      most_votes: "最多投票"
+      most_votes: "最多赞"
       advanced:
         vote:
           count:
-            label: "最小投票数"
+            label: "最小赞数"
